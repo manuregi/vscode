@@ -1,4 +1,1 @@
-manu = 'regi'
-print('')
-print(manu)
-print('')
+name = 'manu'
